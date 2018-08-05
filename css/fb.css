@@ -1,0 +1,321 @@
+*{
+    margin: 0px;
+    overflow-x: hidden;
+   
+}
+.header{
+    color:white;
+    background: #365899;
+    height: 90px;
+   }
+  .fb{
+    padding-top: 25px;
+    padding-left: 15%;
+    font-size: 300%;
+ font-weight: bold;
+    }
+   .username{
+ 
+position: absolute;
+  top: 20px;
+  bottom: 0;
+  left: 60%;
+  width: 100%;
+  }
+.password{
+    position: absolute;
+     top: 20px;
+  bottom: 0;
+  left: 73%;
+  width: 100%;
+  }
+  
+  .email{
+    background: white;
+     position: absolute;
+     top: 45px;
+     left: 60%;
+     width: 150px;
+     border: 1px solid black;
+  }
+  
+  .pass{
+     background: white;
+     position: absolute;
+     top: 45px;
+     left: 73%;
+     width: 150px;
+     border: 1px solid black;
+  }
+  
+  .button{
+    background: #4367AD;
+    color: white;
+     position: absolute;
+     top: 45px;
+     left: 85%;
+    border: #365899;
+    cursor: pointer;
+    }
+    .button:hover{
+        background:#365899;
+        border: 0.5px solid black;
+    }
+    .forget{
+        color: white;
+     position: absolute;
+     top: 68px;
+     left: 73%;
+     width: 150px;
+     text-decoration: none;
+     opacity: 0.7;
+    }
+    .forget:hover{
+        text-decoration: underline;
+    }
+    
+    .sign{
+       color: #2B303B;
+       padding-left: 60%;
+       padding-top: 10px;
+       font-size: 300%;
+       font-weight: bold;
+        }
+        
+    .free{
+         color: #2B303B;
+       padding-left: 60%;
+       padding-top: 15px;
+       font-size: 200%;
+       font-weight: bold;
+       
+    }
+    
+    .fname{
+        height: 30px;
+        width: 14%;
+        position: absolute;
+        top: 35%;
+        left: 60%;
+        font-size: 100%;
+        font-weight: bold;
+        padding-left: 5px;
+        border: 1px solid #A3ABBB;
+        border-radius: 5px;
+         }
+    
+    .lname{
+          height: 30px;
+        width: 14%;
+        position: absolute;
+        top: 35%;
+        left: 75%;
+        font-size: 100%;
+        font-weight: bold;
+        padding-left: 5px;
+        border: 1px solid #A3ABBB;
+        border-radius: 5px;
+    }
+    
+    .mobile{
+          height: 30px;
+        width: 29%;
+        position: absolute;
+        top: 45%;
+        left: 60%;
+        font-size: 100%;
+        font-weight: bold;
+        padding-left: 5px;
+        border: 1px solid #A3ABBB;
+        border-radius: 5px;
+    }
+    
+    .remobile{
+         height: 30px;
+        width: 29%;
+        position: absolute;
+        top: 52%;
+        left: 60%;
+        font-size: 100%;
+        font-weight: bold;
+        padding-left: 5px;
+        border: 1px solid #A3ABBB;
+        border-radius: 5px;
+    }
+    
+    .newpass{
+         height: 30px;
+        width: 29%;
+        position: absolute;
+        top: 59%;
+        left: 60%;
+        font-size: 100%;
+        font-weight: bold;
+        padding-left: 5px;
+        border: 1px solid #A3ABBB;
+        border-radius: 5px;
+    }
+    
+    .birthday{
+        color: black;
+        position: absolute;
+        top: 70%;
+        left: 60%;
+        font-weight: bold;
+        font-size: 120%;
+    }
+    
+    .date{
+        height: 30px;
+        width: 70px;
+        padding-left: 5px;
+       position: absolute;
+        top: 75%;
+        left: 60%;
+        font-weight: bold;
+        
+    }
+    
+    .month{
+           height: 30px;
+        width: 75px;
+        padding-left: 5px;
+       position: absolute;
+        top: 75%;
+        left: 64.9%;
+        font-weight: bold;
+      }
+      
+      .year{
+          height: 30px;
+        width: 75px;
+        padding-left: 5px;
+       position: absolute;
+        top: 75%;
+        left: 70.2%;
+        font-weight: bold; 
+      }
+      
+      .why{
+        color: #365899;
+        text-decoration: none;
+         position: absolute;
+        top: 75%;
+        left: 77%;
+        font-weight: bold;
+      }
+      .why:hover{
+        text-decoration: underline;
+      }
+      .female{
+         position: absolute;
+        top: 84%;
+        left: 60%;
+      }
+      .fmale{
+        font-size: 140%;
+        position: absolute;
+        top: 84%;
+        left: 61.5%;
+        cursor: pointer;
+      }
+      
+      .m{
+          font-size: 140%;
+        position: absolute;
+        top: 84%;
+        left: 70%;
+        cursor: pointer;
+      }
+      .male{
+          position: absolute;
+        top: 84%;
+        left: 68.6%;
+      }
+      
+      .term{
+        color: #777;
+        position: absolute;
+        top: 90%;
+        left: 60%;
+        font-weight: bold;
+        font-size: 12px;
+      }
+      
+      .t{
+         color: #365899;
+         text-decoration: none;
+      }
+      .t:hover{
+        text-decoration: underline;
+      }
+      
+      .c{
+        height: 40px;
+        width: 17%;
+        background-color: #67ae55;
+        color: white;
+        border: 1px solid black;
+        border-radius: 5px;
+        position: absolute;
+        top: 102%;
+        left: 60%;
+        font-size: 110%;
+       text-align: left;
+       padding-left: 15px;
+       cursor: pointer;
+      }
+      
+      .f{
+        background: white;
+        color: #737373;
+        height: 100%;
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 5px;
+        padding-left: 100px;
+        font-size: 13px;
+        font-weight: bold;
+      }
+      
+   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+   }
