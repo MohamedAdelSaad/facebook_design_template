@@ -1,4 +1,4 @@
-This is Facebook Signup and login template.
+This is Facebook Signup & login template.
 
 created by :
 - HTML
